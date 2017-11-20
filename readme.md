@@ -26,3 +26,5 @@ git push -u origin master
 
 
 ## bug: 1.排行榜未完成   2. 播放页面不能下一首
+
+用户名：密码
