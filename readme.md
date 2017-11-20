@@ -1,4 +1,4 @@
-## svn git  来团队合作
+##1.1.1 svn git  来团队合作
 
 //初始化
 git init 
@@ -21,10 +21,10 @@ git push -u origin master
 
 
 
-## 完成功能有
+##1.1.2 完成功能有
 
 
 
-## bug: 1.排行榜未完成   2. 播放页面不能下一首
+## 1.1.3bug: 1.排行榜未完成   2. 播放页面不能下一首
 
-用户名：密码
+用户名：密码 wwwwgfgfsgssgdsg
